@@ -1,0 +1,37 @@
+ebook_metadata:
+  title: ༄༅། །ཕྱག་ཆེན་སྔོན་འགྲོ་ཐུན་མོང་གི་ཁྲིད་ཡིག་གསེར་གྱི་ཐིགས་པ་ཞེས་བྱ་བ་བཞུགས་སོ།
+    །
+  authors:
+  - མཛད་པ་པོ། ཤྲཱི་སེང་བྲག་སྤྲུལ་སྐུ་ངག་དབང་འགྱུར་མེད་ཆོས་ཀྱི་རྒྱལ་མཚན།
+  sku: KS-TS-01
+  layers:
+  - book_title
+  - author
+  - chapter_title
+  - yigchung
+web_metadata:
+  title:
+    en: A Droplet of Gold:A Commentary on the Common Preliminary Practice of Mahamudra
+    bo: ཕྱག་ཆེན་སྔོན་འགྲོ་ཐུན་མོང་གི་ཁྲིད་ཡིག་གསེར་གྱི་ཐིགས་པ་ཞེས་བྱ་བ་བཞུགས་སོ།།
+  collection:
+    en: Tulku Sengdrak Series–  Book 1
+    bo: སྤྲུལ་སྐུ་སེང་གྲགས་བསྟར་རིམ།–  དེབ། ༡
+  author:
+    en: Tulku Ngawang Gyurme Chokyi Gyaltsen
+    bo: སྤྲུལ་སྐུ་ངག་དབང་འགྱུར་མེད་ཆོས་ཀྱི་རྒྱལ་མཚན།
+  pusblisher:
+    en: Gautam Buddha ViharaDOWNLOAD EBOOK
+    bo: དོན་བརྒྱུད་དཔལ་ལྡན་འབྲུག་པ།ཕབ་ལེན།
+  sku: KS-TS-01
+  category:
+    en: Preliminary Practices
+    bo: སྔོན་འགྲོ།
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: KS-TS-01.epub
+  description:
+    en: ''
+    bo: ''
