@@ -1,14 +1,16 @@
-ebook_metadata:
+id: P000205
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །ཕྱག་ཆེན་སྔོན་འགྲོ་ཐུན་མོང་གི་ཁྲིད་ཡིག་གསེར་གྱི་ཐིགས་པ་ཞེས་བྱ་བ་བཞུགས་སོ།
     །
   authors:
   - མཛད་པ་པོ། ཤྲཱི་སེང་བྲག་སྤྲུལ་སྐུ་ངག་དབང་འགྱུར་མེད་ཆོས་ཀྱི་རྒྱལ་མཚན།
-  sku: KS-TS-01
   layers:
   - book_title
   - author
   - chapter_title
   - yigchung
+  id: KS-TS-01
 web_metadata:
   title:
     en: A Droplet of Gold:A Commentary on the Common Preliminary Practice of Mahamudra
